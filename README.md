@@ -1,6 +1,6 @@
 # MalRa STRUKDAT
 
-Tugas Besar Struktur Data — Sistem Keanggotaan Ekstrakurikuler (MLL & BST)[cite: 15].
+Tugas Besar Struktur Data — Sistem Keanggotaan Ekstrakurikuler (MLL & BST).
 
 ## Gambaran Proyek
 Proyek C++ ini menerapkan konsep **Abstract Data Type (ADT)** dengan pemisahan file header (`.h`), file implementasi (`.cpp`), dan program utama (`main.cpp`):
